@@ -1,2 +1,3 @@
 # profiles-rest-api
-Source code for profiles REST API course
+
+Profiles REST API course code.
